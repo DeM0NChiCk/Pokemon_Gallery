@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PokeBulba</string>
+    <string name="example_name">bulbasaur</string>
+    <string name="characteristics">Characteristics</string>
+    <string name="abilities">Abilities</string>
+    <string name="stats">Stats</string>
+    <string name="weight">Weight: %s</string>
+    <string name="height">Height: %s</string>
+    <string name="base_experience">Base experience: %s</string>
+    <string name="types">Types</string>
+    <string name="error_title">Error</string>
+    <string name="retry_button">Retry</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+    <string name="ability_text">%1$s takes up slot %2$s and hidden is %3$s</string>
+    <string name="type_text">%1$s takes up slot %2$s</string>
+    <string name="stat_text">%1$s base stats %2$s and effort points %3$s</string>
+    <string name="loading">LOADING…</string>
+</resources>
